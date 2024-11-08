@@ -129,3 +129,18 @@ button:hover {
     padding-left: 20px;
   }
 }
+
+
+
+@media screen and (max-width: 500px) {
+.aboutHolder{
+  width: 90%;
+}
+
+
+.input_Holder{
+  width: 90%;
+}
+}
+
+

@@ -1,0 +1,14 @@
+*{
+    font-size: 30px;
+}
+
+
+.word{
+    color: green;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.wor{
+    color: blue;
+}
